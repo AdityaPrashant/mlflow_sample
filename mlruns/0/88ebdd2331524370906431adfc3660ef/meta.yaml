@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/p_adi/OneDrive/Desktop/mlflow/mlruns/0/88ebdd2331524370906431adfc3660ef/artifacts
+end_time: 1690222893004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88ebdd2331524370906431adfc3660ef
+run_name: intelligent-slug-305
+run_uuid: 88ebdd2331524370906431adfc3660ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222889571
+status: 3
+tags: []
+user_id: p_adi

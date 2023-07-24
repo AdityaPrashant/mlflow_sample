@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/p_adi/OneDrive/Desktop/mlflow/mlruns/0/0ca3e88d9abd4e34b4973bd33cc9a58b/artifacts
+end_time: 1690221396608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ca3e88d9abd4e34b4973bd33cc9a58b
+run_name: enthused-quail-268
+run_uuid: 0ca3e88d9abd4e34b4973bd33cc9a58b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690221392762
+status: 3
+tags: []
+user_id: p_adi

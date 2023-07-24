@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/p_adi/OneDrive/Desktop/mlflow/mlruns/0/8ddd655aea8341ec90b20ca3e4ad94e4/artifacts
+end_time: 1690224649124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ddd655aea8341ec90b20ca3e4ad94e4
+run_name: redolent-bug-700
+run_uuid: 8ddd655aea8341ec90b20ca3e4ad94e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690224647080
+status: 3
+tags: []
+user_id: p_adi

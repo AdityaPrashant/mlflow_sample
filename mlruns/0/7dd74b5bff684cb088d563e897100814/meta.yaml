@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/p_adi/OneDrive/Desktop/mlflow/mlruns/0/7dd74b5bff684cb088d563e897100814/artifacts
+end_time: 1690223986198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dd74b5bff684cb088d563e897100814
+run_name: beautiful-toad-585
+run_uuid: 7dd74b5bff684cb088d563e897100814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690223982699
+status: 3
+tags: []
+user_id: p_adi

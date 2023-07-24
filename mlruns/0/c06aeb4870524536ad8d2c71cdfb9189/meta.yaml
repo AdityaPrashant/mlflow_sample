@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/p_adi/OneDrive/Desktop/mlflow/mlruns/0/c06aeb4870524536ad8d2c71cdfb9189/artifacts
+end_time: 1690224078555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c06aeb4870524536ad8d2c71cdfb9189
+run_name: nimble-gnat-213
+run_uuid: c06aeb4870524536ad8d2c71cdfb9189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690224076545
+status: 3
+tags: []
+user_id: p_adi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/p_adi/OneDrive/Desktop/mlflow/mlruns/0/724eb0cc820f48a99b0537bded79c479/artifacts
+end_time: 1690222915660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 724eb0cc820f48a99b0537bded79c479
+run_name: suave-lark-881
+run_uuid: 724eb0cc820f48a99b0537bded79c479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690222913566
+status: 3
+tags: []
+user_id: p_adi
